@@ -1,0 +1,21 @@
+git config --global user.name <name>
+git config --global user.email <email>
+
+git init
+
+git status
+git add <filename>
+git commit -m "some message"
+git log
+
+git branch <branch_name>
+git branch	to watch all branches
+git checkout <branchname>
+
+git remote -v
+git remote add <url>
+
+git push <remote_repo_name>
+git clone <url>
+
+git merge
